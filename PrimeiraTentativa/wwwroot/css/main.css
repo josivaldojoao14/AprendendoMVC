@@ -1,0 +1,59 @@
+﻿body {
+    background-color: #27292b;
+    color: white;
+}
+
+/* Navbar */
+.barraNavegacao {
+    background-color: #6907ab;
+    color: white;
+}
+
+.barraNavegacao a{
+    text-decoration: none;
+    color: gold;
+}
+
+.barraNavegacao a:hover{
+    color: darkgoldenrod;
+}
+
+/* Conteudo */
+.conteudo{
+    background-color: white;
+    color: black;
+}
+
+.navegacao{
+    background-color: #500880;  
+}
+
+.navegacao a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: gold;
+}
+
+.navegacao a:hover {
+   text-decoration: none;
+   color: darkgoldenrod;
+}
+
+/* Footer */
+.rodape {
+    background-color: #500880;
+    color: white;
+}
+
+.sociais a{
+    color: gold;
+    font-size: 1.5em;
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+.sociais a:hover{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+
